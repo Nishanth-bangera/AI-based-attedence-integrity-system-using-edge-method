@@ -1,7 +1,7 @@
-import os
+﻿import os
 import cv2
 
-DATABASE_PATH = "dataset"
+DATABASE_PATH = "Dataset"
 
 total_images = 0
 valid_images = 0
