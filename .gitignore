@@ -1,0 +1,10 @@
+.env
+*.env
+Dataset/
+dataset/
+student_datasets/
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+node_modules/
